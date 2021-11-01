@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @White-Yazuwa
 - 👀 I’m interested in Pascal
 - 🌱 I’m currently learning network admin
-- 💞️ I’m looking to collaborate on with BlackAmda
+- 💞️ I’m looking to collaborate on with Nethmi
 - 📫 How to reach me - no way 😎
 
 <!---
